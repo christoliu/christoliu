@@ -1,6 +1,6 @@
 Hello! 你好!
 ---
-I'm Tsu-Hao Liu(Christopher),
+I'm Tsu-Hao Liu(Christopher),</br>
 A recent Computer Science & Information Engineering graduate student from NCU Taiwan, with passion for learning, Seeking to make use of acquired knowledge from school for 
 the job qualification.
 
