@@ -1,11 +1,12 @@
 Hello! 你好!
 ---
 I'm Tsu-Hao Liu (Christopher Liu),</br>
-A current Back-end Engineer inTaiwan @ JX.
+A current Back-end Engineer in Taiwan @ JX.
 
 - Skills: 
-    - Coding: C/C++, python, C#, java, javascript, php.
-    - Technologies/Environment: Node.js, SQL, Docker, Linux, Git, HTML5, JavaScript, CSS3, Unity.
-    - Framwork: Fastify, express, laravel
+    - Coding: C/C++, C#, python, java
+    - Frontend: HTML5, CSS3, JavaScript
+    - Backend/Framwork: PHP/laravel, Node.js/Exbress/fastify
+    - Tech/Env: Linux, Git, Unity, MySQL, Docker
 - Language: Mandarin, English(TOEIC 850), Japanese(N5) 
 - Interest: reading, traveling, sports.
