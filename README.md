@@ -11,6 +11,6 @@ A current Back-end Engineer in Taiwan @ JX.
 - Language: Mandarin, English(TOEIC 850), Japanese(N5) 
 - Interest: reading, traveling, sports.
 
-##### mail: chris211032@gmail.com
+**mail**: chris211032@gmail.com
 
-##### Linkedin [linkedin.com/in/TSU-HAO-LIU/](https://www.linkedin.com/in/tsu-hao-liu-7575aa129/)
+**Linkedin**: [linkedin.com/TSU-HAO-LIU/](https://www.linkedin.com/in/tsu-hao-liu-7575aa129/)
